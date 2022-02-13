@@ -1,3 +1,3 @@
 ### Hi there 👋
 
- ✔ 18 yo | 🚩 uberlândia, mg | 📚 si - ufu
+ ✔ 18 yo | 📚 s.i student 
