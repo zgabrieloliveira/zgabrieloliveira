@@ -1,3 +1,3 @@
 ### Hi there 👋
 
- ✔ 18 yo | 📚 s.i student 
+ ✔ 18 yo | 📚 si - ufu 
