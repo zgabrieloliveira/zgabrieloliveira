@@ -1,4 +1,4 @@
-<h2 align="left">I like coding & drinking coffee 👨‍💻☕</h2>
+<h2 align="left">I like to code & drink coffee 👨‍💻☕</h2>
 
 ###
 
