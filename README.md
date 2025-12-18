@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Gabriel 👋</h1>
+  <h1>Hello World! 🌎</h1>
   <p><i>I like to code & drink coffee 👨‍💻☕</i></p>
 
   <a href="https://www.linkedin.com/in/gabriel-oliveira-849a32231/" target="_blank">
