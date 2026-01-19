@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello World! 🌎</h1>
-  <p><i>I like to code & drink coffee 👨‍💻☕</i></p>
+  <p><i>I like to code & drink coffee ☕</i></p>
 
   <a href="https://www.linkedin.com/in/gabriel-oliveira-849a32231/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
