@@ -16,7 +16,7 @@
 Final-year Information Systems student with a strong academic background and over two years of professional experience building high-impact distributed systems.
 
 * **Software Architecture:** Experienced in designing scalable systems using **Clean Architecture**, **Design Patterns**, and **Domain-Driven Design (DDD)**.
-* * **System Resilience:** Interested in fault-tolerance patterns and microservices stability, currently researching **resilience strategies** and patterns like **Circuit Breakers** for distributed architectures.
+* **System Resilience:** Interested in fault-tolerance patterns and microservices stability, currently researching **resilience strategies** and patterns like **Circuit Breakers** for distributed architectures.
 * **Enterprise Solutions:** Proven track record of delivering R&D solutions for large-scale players in the **energy, oil & gas, and public safety** sectors.
 * **Modern Backend Stack:** Expertise in developing robust APIs and microservices with a focus on **concurrency, event-driven messaging**, and secure data isolation.
 * **Development Lifecycle:** Full-cycle involvement from architectural design and technical specification to automated CI/CD pipelines and deployment.
