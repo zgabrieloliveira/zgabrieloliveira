@@ -61,10 +61,25 @@ Final-year Information Systems student with a strong academic background and ove
 
 ---
 
-### 📊 Stats & Recognition
-> 💡 **Note:** A significant portion of my professional trajectory and recent contributions are linked to private repositories on **Bitbucket**, which is not reflected in GitHub's activity graphs.
+### 💎 Featured Repos
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zgabrieloliveira&show_icons=true&theme=gotham&count_private=true&hide_border=true" alt="Gabriel Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zgabrieloliveira&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
+#### 🧪 [Microservice Resilience Benchmark](https://github.com/zgabrieloliveira/microservice-resilience-benchmark)
+**Bachelor's Thesis (TCC) • Java • Resilience4j • Chaos Engineering**
+> The practical implementation of my academic thesis: *"Analysis of Circuit Breaker Resilience Patterns in Microservices Architectures"*.
+> * **Objective:** Quantitative analysis of system stability under high-stress scenarios (latency injection, downtime).
+> * **Methodology:** Comparative benchmarking of throughput and error rates between resilient (Circuit Breaker/Bulkhead) and non-resilient architectures.
+> * **Stack:** Spring Boot ecosystem coupled with **Resilience4j** for pattern implementation and observability tools for metrics.
+
+#### 📡 [Resilient Webhook Dispatcher](https://github.com/zgabrieloliveira/eda-webhook-dispatcher)
+**Event-Driven Architecture (EDA) • Java 17 • Spring Boot • Apache Kafka • Resilience4j**
+> A high-throughput dispatcher system designed to demonstrate **Fault Tolerance** in distributed systems.
+> * **Architecture:** Decoupled Producer/Consumer pattern using Kafka (Kraft mode).
+> * **Resilience:** Implements **Circuit Breaker** and Retry patterns to handle downstream failures gracefully without crashing the pipeline.
+> * **Observability:** Full audit logging of delivery attempts via PostgreSQL.
+
+#### 🏢 [SaaS Multitenant API](https://github.com/zgabrieloliveira/saas-multitenant)
+**Enterprise Backend • .NET 9 • EF Core • PostgreSQL • Docker**
+> A robust boilerplate for SaaS applications focusing on **Data Isolation** and Security.
+> * **Strategy:** Implements **Schema Isolation** logic via EF Core Global Query Filters (transparent to the developer).
+> * **Middleware:** Custom pipeline for tenant resolution and context injection using Scoped Services.
+> * **Modern Stack:** Built .NET 9 and clean architecture principles.
