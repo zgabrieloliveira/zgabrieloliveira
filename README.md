@@ -12,7 +12,7 @@
 
 ---
 
-### 🏛️ Software Architect & Backend Engineer
+### 👨‍💻 Software Architect & Backend Engineer
 Final-year Information Systems student with a strong academic background and over two years of professional experience building high-impact distributed systems.
 
 * **Software Architecture:** Experienced in designing scalable systems using **Clean Architecture**, **Design Patterns**, and **Domain-Driven Design (DDD)**.
@@ -48,8 +48,7 @@ Final-year Information Systems student with a strong academic background and ove
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="Kafka" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -61,25 +60,11 @@ Final-year Information Systems student with a strong academic background and ove
 
 ---
 
-### 💎 Featured Repos
+### ⭐ Engineering & Architecture
+> *Check my **Pinned Repositories** for full source code and documentation.*
+Here’s what I’ve been building and testing lately.
+* **SaaS Multi-tenancy:** Secure data isolation using .NET 9 & EF Core filters.
+* **Event-Driven Resilience:** Fault-tolerant pipelines with Kafka & Circuit Breakers.
+* **Academic Research:** Quantitative benchmarking of microservices stability (TCC).
 
-#### 🧪 [Microservice Resilience Benchmark](https://github.com/zgabrieloliveira/microservice-resilience-benchmark)
-**Bachelor's Thesis (TCC) • Java • Resilience4j • Chaos Engineering**
-> The practical implementation of my academic thesis: *"Analysis of Circuit Breaker Resilience Patterns in Microservices Architectures"*.
-> * **Objective:** Quantitative analysis of system stability under high-stress scenarios (latency injection, downtime).
-> * **Methodology:** Comparative benchmarking of throughput and error rates between resilient (Circuit Breaker/Bulkhead) and non-resilient architectures.
-> * **Stack:** Spring Boot ecosystem coupled with **Resilience4j** for pattern implementation and observability tools for metrics.
-
-#### 📡 [Resilient Webhook Dispatcher](https://github.com/zgabrieloliveira/eda-webhook-dispatcher)
-**Event-Driven Architecture (EDA) • Java 17 • Spring Boot • Apache Kafka • Resilience4j**
-> A high-throughput dispatcher system designed to demonstrate **Fault Tolerance** in distributed systems.
-> * **Architecture:** Decoupled Producer/Consumer pattern using Kafka (Kraft mode).
-> * **Resilience:** Implements **Circuit Breaker** and Retry patterns to handle downstream failures gracefully without crashing the pipeline.
-> * **Observability:** Full audit logging of delivery attempts via PostgreSQL.
-
-#### 🏢 [SaaS Multitenant API](https://github.com/zgabrieloliveira/saas-multitenant)
-**Enterprise Backend • .NET 9 • EF Core • PostgreSQL • Docker**
-> A robust boilerplate for SaaS applications focusing on **Data Isolation** and Security.
-> * **Strategy:** Implements **data isolation** logic via EF Core Global Query Filters (transparent to the developer).
-> * **Middleware:** Custom pipeline for tenant resolution and context injection using Scoped Services.
-> * **Modern Stack:** Built .NET 9 and clean architecture principles.
+---
