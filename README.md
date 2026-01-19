@@ -80,6 +80,6 @@ Final-year Information Systems student with a strong academic background and ove
 #### 🏢 [SaaS Multitenant API](https://github.com/zgabrieloliveira/saas-multitenant)
 **Enterprise Backend • .NET 9 • EF Core • PostgreSQL • Docker**
 > A robust boilerplate for SaaS applications focusing on **Data Isolation** and Security.
-> * **Strategy:** Implements **Schema Isolation** logic via EF Core Global Query Filters (transparent to the developer).
+> * **Strategy:** Implements **data isolation** logic via EF Core Global Query Filters (transparent to the developer).
 > * **Middleware:** Custom pipeline for tenant resolution and context injection using Scoped Services.
 > * **Modern Stack:** Built .NET 9 and clean architecture principles.
