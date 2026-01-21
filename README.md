@@ -64,7 +64,6 @@ Final-year Information Systems student with a strong academic background and ove
 > *Check my **Pinned Repositories** for full source code and documentation.*
 Here’s what I’ve been building and testing lately.
 * **SaaS Multi-tenancy:** Secure data isolation using .NET 9 & EF Core filters.
+* **Concurrency & Idempotency:** Eliminating race conditions in financial APIs using Redis & Pessimistic Locking.
 * **Event-Driven Resilience:** Fault-tolerant pipelines with Kafka & Circuit Breakers.
 * **Academic Research:** Quantitative benchmarking of microservices stability (TCC).
-
----
