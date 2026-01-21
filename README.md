@@ -63,7 +63,9 @@ Final-year Information Systems student with a strong academic background and ove
 ### ⭐ Engineering & Architecture
 > *Check my **Pinned Repositories** for full source code and documentation.*
 Here’s what I’ve been building and testing lately.
-* **SaaS Multi-tenancy:** Secure data isolation using .NET 9 & EF Core filters.
-* **Concurrency & Idempotency:** Eliminating race conditions in financial APIs using Redis & Pessimistic Locking.
-* **Event-Driven Resilience:** Fault-tolerant pipelines with Kafka & Circuit Breakers.
 * **Academic Research:** Quantitative benchmarking of microservices stability (TCC).
+* **SaaS Multi-tenancy:** Secure data isolation using .NET 9 & EF Core filters.
+* **Concurrency & Idempotency:** Eliminating race conditions in booking and financial APIs using Redis Distributed Locks, Pessimistic Locking, and Clean Architecture.
+* **Real-Time Systems:** Implementing live event broadcasting and instant state synchronization using SignalR and Websockets.
+* **Event-Driven Resilience:** Fault-tolerant pipelines with Kafka & Circuit Breakers.
+* **DevOps & Infrastructure:** Orchestrating complex environments with Docker Compose, including multi-service networking between API, Workers, and Cache.
